@@ -1,0 +1,8 @@
+main_category,related_category,relation_type,relation_weight,explanation
+laptop,laptop,related,0.95,same-category similar items
+smartphone,smartphone,related,0.95,same-category similar items
+tv,tv,related,0.95,same-category similar items
+fridge,fridge,related,0.95,same-category similar items
+washing_machine,washing_machine,related,0.95,same-category similar items
+ac,ac,related,0.95,same-category similar items
+camera,camera,related,0.95,same-category similar items
